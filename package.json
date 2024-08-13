@@ -24,19 +24,19 @@
     "cypress": "3 || 5 || 6 || 7"
   },
   "dependencies": {
-    "@cypress/browserify-preprocessor": "3.0.1",
+    "@cypress/browserify-preprocessor": "3.0.2",
     "debug": "4.3.1",
     "falafel": "2.2.4",
     "pluralize": "8.0.0",
     "through": "2.3.8"
   },
   "devDependencies": {
-    "cypress": "7.4.0",
+    "cypress": "13.13.2",
     "lazy-ass": "1.6.0",
-    "mocha": "8.4.0",
+    "mocha": "10.7.3",
     "mocha-banner": "1.1.2",
     "ramda": "0.27.1",
-    "semantic-release": "17.4.3",
+    "semantic-release": "19.0.3",
     "snap-shot-it": "7.9.6"
   },
   "repository": {
